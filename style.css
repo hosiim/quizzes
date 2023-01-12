@@ -1,3 +1,40 @@
 body {
-
+ background-color: #F7D1CD;
+}
+h1{
+  color:#6BBAEC;
+  font-size: 200%;
+  letter-spacing: 7px;
+  text-decoration: underline;
+  font-family: Cambria;
+}
+p{
+  color:#735D78;
+  font-size: 150%;
+  letter-spacing: 8px;
+}
+img{
+  border: dotted #6A8BA6 4px;
+}
+iframe{
+  border: dashed #73D78 10px;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  font-family: "Papyrus", Fantasy; 
+  border-style: dashed;
+  color: #F06C98;
+  text-decoration-line: none;
+}
+li a: hover{
+  color: white;
 }
